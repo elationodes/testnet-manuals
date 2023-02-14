@@ -2,6 +2,12 @@
 
 ANDROMEDA is an application platform layer that connects all public blockchains in the Cosmos ecosystem. Through our vast library of no-code smart contracts, users can harness the power of web3.
 
+### Services
+<a href="https://api.andromeda-tn.elationodes.xyz"><strong>API</strong></a><br>
+<a href="https://docs.andromedaprotocol.io/andromeda/"><strong>RPC</strong></a><br>
+<a href="https://grpc.andromeda-tn.elationodes.xyz"><strong>gRPC</strong></a>
+Peer - e1e281420ffeaae5e23d6ea08bad8787db71ebf9@65.109.88.178:11657
+
 #### <strong>Useful Links</strong><br>
 <a href="https://andromedaprotocol.io/"><strong>WebSite</strong></a><br>
 <a href="https://docs.andromedaprotocol.io/andromeda/"><strong>Official Docs</strong></a><br>
